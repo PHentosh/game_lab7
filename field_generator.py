@@ -28,7 +28,13 @@ def field(ulam_numbers: list, lucky_numbers: list, even_numbers: list)-> list:
 
 def print_field(field: list):
     """
-    This function takes list of lists and print each list in new line
+    This function takes field as a list and print it a:
+    |63 |209|130|31 |48 |178|
+    |15 |60 |3  |400|26 |26 |
+    |414|73 |194|70 |612|79 |
+    |194|16 |9  |97 |63 |356|
+    |142|13 |1  |673|30 |624|
+    |627|6  |67 |522|142|63 |
     """
     import math
 
